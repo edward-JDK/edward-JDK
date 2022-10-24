@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @edward-JDK
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning front-end development: HTML, CSS, JavaScript. Also, MySQL, phpMyAdmin etc.
-- 💞️ I’m looking to collaborate on "duno yet)))"
+- 🌱 Currently, I'm learning front-end development. I am studying HTML, CSS, Java, and Python. Also, I am interested in MySQL and phpMyAdmin.
+- 💞️ I’m looking to collaborate with somebody to practice my skills. It could be a very simple and small project or intermediate.
 - 📫 How to reach me edward.flex.uk@gmail.com
 
 <!---
